@@ -1,8 +1,8 @@
 ## Big Data Analysis with PySpark - WDI
 ---
-> **Note** This repository has been archived.
+> **Note** **This repository has been archived.**
 
-> **Update:** only the way to install and import the PySpark package has changed. The rest of the code was written for PySpark 3.0.1 in 2021.
+> ***Update:** only the way to install and import the PySpark package has changed. The rest of the code was written for PySpark 3.0.1 in 2021.*
 
 A Jupyter notebook with an example of big data analysis using the PySpark SQL module.
 ### Overview:
